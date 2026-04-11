@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Raymond Frias, an aspiring Software Engineer!
+## Hi there 👋, I'm Raymond Frias, a certified Eagle Scout and Software Engineer!
 
 <!--
 **webDeveloper42/webDeveloper42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
