@@ -1,5 +1,12 @@
 ## Hi there 👋, I'm Raymond Frias, a certified Eagle Scout and Software Engineer!
 
+**webDeveloper42/discover-yourself** is a cool project I made for people that are invested into spirituality.
+
+How to reach me: 
+
+Linkedin: [click here](https://www.linkedin.com/in/raymondintech/)
+
+Email: rfrias1869@gmail.com
 <!--
 **webDeveloper42/webDeveloper42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
