@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Raymond Frias
 
-Im a **Certified Eagle Scout Software Engineer** who build tools to improve systems and foundations, as for me would be on spirituality, finances and japan related projects.
+Im a **Certified Eagle Scout Software Engineer and IT System Administrator** who build tools to improve systems and foundations, as for me would be on spirituality, finances and japan related projects.
 
 **webDeveloper42/discover-yourself** is a cool project I'm working on. I made it for people that are invested into spirituality.
 
